@@ -10,10 +10,18 @@ body {
     font-size: 20px;
 }
 
+.screen{
+    height: 1.2em;
+    font-size: 30px;
+    border-bottom: black 2px solid;
+    padding: 0.2em;
+}
+
 
 .keyboard {
     display: flex;
     flex-direction: row;
+
     margin: 10px;
 }
 
